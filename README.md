@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br /><br />
 ![grupomoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=grupomoura&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=transparent)
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grupomoura&repo=emacs-init)](https://github.com/grupomoura/emacs-init)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grupomoura&repo=emacs-init)](https://github.com/grupomoura/cors-anywhere)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
