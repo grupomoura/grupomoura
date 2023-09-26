@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grupomoura&repo=cors-anywhere)](https://github.com/grupomoura/cors-anywhere)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grupomoura&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grupomoura)](https://github.com/anuraghazra/github-readme-stats)
 
