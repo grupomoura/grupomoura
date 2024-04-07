@@ -17,16 +17,15 @@ Here are some ideas to get you started:
 #### Sobre Mim ####
 💻 Desenvolvedor Web FullStack &nbsp;&nbsp; 🇧🇷 Brasileiro &nbsp;&nbsp; 🐧 Usuário Linux <br />
 <br />
-<!--[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](hhttps://twitter.com/WesleyAAlves1)-->
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jamersoncmoura) &nbsp;&nbsp;&nbsp;
-[![wakatime](https://wakatime.com/badge/user/57b18355-951e-4717-828c-85840f6d39e3.svg?style=for-the-badge)](https://wakatime.com/waka_1f71c3aa-0e60-4fcc-8d02-e81128a228db)
-<br /><br />
-![grupomoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=grupomoura&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=transparent)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grupomoura&repo=cors-anywhere)](https://github.com/grupomoura/cors-anywhere)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grupomoura&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grupomoura)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=35638433" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35638433&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @grupomoura" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35638433&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ----------------------------------------------------------------------------------
